@@ -1,0 +1,8 @@
+% navi, utils
+
+# Show cheat paths
+navi info cheats-path
+
+# print example config
+navi info config-example
+
