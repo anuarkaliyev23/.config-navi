@@ -1,0 +1,5 @@
+% network
+
+# Show process listening to port
+sudo lsof -n -i :<port> | grep LISTEN
+
