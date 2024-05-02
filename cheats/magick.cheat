@@ -1,4 +1,4 @@
-% magick, images
+% images, convert
 
 # Convert image to another format
 magick <source> <target>
