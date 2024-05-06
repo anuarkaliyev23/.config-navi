@@ -1,0 +1,5 @@
+% redis, databases
+
+# connect to a redis host
+iredis -h <host> --decode utf-8
+

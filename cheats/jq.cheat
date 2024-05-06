@@ -1,7 +1,6 @@
 % json, parsing
 
 # parse field from file
-
 echo $(cat <file>) | jq '.<field>'
 
 $ file: ls -a | egrep -i '\.*.json'
