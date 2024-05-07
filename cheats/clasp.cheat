@@ -1,0 +1,15 @@
+% google, js
+
+# Login using browser
+clasp login
+
+# Logout
+clasp logout
+
+# Clone scripts in local folder
+clasp clone <scriptId>
+
+# Push files to scripts.google.com
+clasp push
+
+
