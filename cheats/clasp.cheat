@@ -12,4 +12,8 @@ clasp clone <scriptId>
 # Push files to scripts.google.com
 clasp push
 
+# set project
+clasp settings project <projectId>
 
+# Open in browse
+clasp open

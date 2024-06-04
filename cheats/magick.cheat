@@ -3,4 +3,4 @@
 # Convert image to another format
 magick <source> <target>
 
-$ source: ls -a | egrep -i '\.*.(webp|jpeg|png)$'
+$ source: ls -a | egrep -i '\.*.(webp|jpeg|jpg|png)$'
