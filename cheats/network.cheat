@@ -3,3 +3,7 @@
 # Show process listening to port
 sudo lsof -n -i :<port> | grep LISTEN
 
+# Parse network for live pings
+nmap -sn <network>/<subnet>
+
+
