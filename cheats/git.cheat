@@ -1,0 +1,7 @@
+%git
+
+# Delete all uncommited changes
+git reset --hard HEAD 
+
+# Initialize existing submodule (in submodule folder)
+git submodule init && git submodule update
