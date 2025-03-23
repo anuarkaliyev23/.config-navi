@@ -1,0 +1,3 @@
+% freerdp, rdp, windows
+
+xfreerdp /u:<username> /p:<password> /v:<ip> /sound /f
