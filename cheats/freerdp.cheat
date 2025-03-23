@@ -1,3 +1,4 @@
 % freerdp, rdp, windows
 
+# Connect using freerdp
 xfreerdp /u:<username> /p:<password> /v:<ip> /sound /f
