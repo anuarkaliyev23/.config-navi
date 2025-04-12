@@ -1,4 +1,4 @@
 % freerdp, rdp, windows
 
 # Connect using freerdp
-xfreerdp /u:<username> /p:<password> /v:<ip> /sound /f
+xfreerdp /u:<username> /p:<password> /v:192.168.1.215 /sound /f +clipboard
